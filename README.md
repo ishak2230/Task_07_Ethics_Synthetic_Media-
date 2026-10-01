@@ -1,5 +1,3 @@
-# Task_07_Ethics_Synthetic_Media-
-Ethical analysis and governance policy for responsible use of synthetic media, building on the findings from Task 6.
 # Task 7 — The Ethics of Synthetic Representation
 
 ## Project Overview
@@ -30,7 +28,7 @@ However, university communications also depend on credibility and public trust. 
 This project builds on the synthetic-media experiment completed in Task 6.
 
 **Task 6 Repository:**  
-
+https://github.com/ishak2230/TASK6_Deep_Fake
 
 In Task 6, I used ElevenLabs to generate synthetic speech and D-ID to create a talking-avatar video. I also tested a sample of the synthetic audio using Hive's AI-generated audio detector.
 
